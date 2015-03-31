@@ -1,0 +1,2 @@
+# Markov_switching_multifractal_simulation
+Markov-switching Multifractal model volatility simulator
